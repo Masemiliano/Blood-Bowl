@@ -1,5 +1,5 @@
 # Blood-Bowl
-I have programmed the board game Blood Bowl in python3 and pygame. It is not yet finshed, though many functions do exist. If you like it, I would love to see some feedback and
+I have programmed the board game Blood Bowl in python3 and pygame. It is not yet finished, though many functions do exist. If you like it, I would love to see some feedback and
 bug reports.
 I have a google website for it, but it's currently in Swedish, and the game is also only available in Swedish. I will make an English version of the website and the game if
 anybody is interested...
